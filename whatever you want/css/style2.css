@@ -1,0 +1,60 @@
+body{
+    background:
+    Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+
+    Linear-gradient(127deg, black, black 70.71%),
+    
+    Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+background-repeat: no-repeat;
+height: 1200px;
+}
+
+div.div1{
+    position: relative;
+    left: 50%;
+    right: 50%;
+    border: 95px;
+    color: aliceblue;
+}
+div.div2{
+    position: relative;
+    left: 50%;
+    right: 50%;
+    border: 90px;
+    color: aliceblue;
+}
+
+li{
+    position: relative;
+    float: center;
+    font-size: 45px;
+    margin-left: 45px;
+    margin-right: 45px;
+
+    
+    
+}
+li{
+    display: inline;
+}
+a{
+    text-decoration: none;
+}
+
+
+img{
+    height: 100px;
+    width: 150px;
+    position: relative;
+    float: left;
+    border: 50px;
+
+}
+
+h1{
+    position: relative;
+    left: 50%;
+    right: 50%;
+    border:95px;
+    color: aliceblue;
+}
